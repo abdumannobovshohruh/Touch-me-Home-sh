@@ -1,0 +1,365 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+list-style: none;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navlist{
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    display: flex;
+}
+.dostavka{
+    display: flex;
+    justify-content: space-between
+}
+.navli_a{
+    text-decoration: none;
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+color: #000000;
+}
+.textN{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+color: #666666;
+}
+.search{
+    width: 10000px;
+}
+.searchI{
+    position: relative;
+     right: 40px;
+}
+.number{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+color: #000000;
+}
+.whatsap{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+/* identical to box height */
+color: #5DB25F;
+line-height: 0;
+}
+.loveText{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 11px;
+/* identical to box height */
+color: #000000;
+}
+.bigLove{
+    display: flex;
+    justify-content: space-between;
+}
+.skidka{
+    display: flex;
+    justify-content: space-between;
+}
+.odeyalo{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 13px;
+    color: #000000;
+}
+.odeyaloS{
+    color: #FF0004;
+}
+.tekstil{
+    margin-top: 150px;
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+color: #000000;
+}
+.tekstilS{
+color: #FF5555;
+}
+.live{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+color: #343434;
+margin-bottom: 40px;
+}
+.up{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 25px;
+/* identical to box height */
+text-align: center;
+color: #FFFFFF;
+Padding: 20px 40px;
+background: #343434;
+border-radius: 2px;
+border: none;
+margin-bottom: 100px;
+}
+.mandarin{
+    background: url(img/Mask\ Group.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kto{
+    text-align: center;
+}
+.angel{
+    margin-top: 100px;
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 44px;
+/* identical to box height */
+color: #343434;
+margin-bottom: 50px;
+}
+.oclock{
+margin-left: 200px;
+margin-bottom: 20px;
+}
+.vremya{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+text-align: center;
+color: #000000;
+}
+.arrow{
+    display: flex;
+    align-items: start;
+}
+.vector{
+margin-top:5px;
+margin-left: 20px;
+}
+.apelsin{
+    margin-top: 60px;
+    padding-bottom: 50px;
+    background: #F0F2F7;
+}
+.softText{
+    margin-top: 20px;
+    text-align: center;
+}
+.largus{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.lada{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 25px;
+/* identical to box height */
+text-align: center;
+color: #343434;
+background: #FFFFFF;
+border: 1px solid #343434;
+border-radius: 2px;
+padding: 20px 50px;
+}
+.kerak{
+    margin-top: 140px;
+    margin-bottom: 40px;
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 44px;
+/* identical to box height */
+color: #FFFFFF;
+}
+.optom{
+    margin-bottom: 100px;
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 25px;
+/* identical to box height */
+text-align: center;
+color: #FFFFFF;
+background: #FF5555;
+border-radius: 2px;
+border: none;
+padding:20px 50px ;
+}
+.bmw{
+    text-align: center;
+}
+.pomidor{
+    background: url(img/Mask\ Group\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cool{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FF5555;
+
+}
+.turkiya{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* or 138% */
+text-align: center;
+color: #343434;
+
+}
+.garant{
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+.potato{
+    margin-top: 100px;
+    background: #F0F2F6;
+}
+.big{
+    display: flex;
+    align-items: start;
+}
+.podxod{
+    margin-left: 20px;
+}
+.audi{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 127%;
+/* or 25px */
+color: #000000;
+}
+.offic{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+color: #343434;
+}
+.pizza{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+color: #343434;
+}
+.anna{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+}
+.mariText{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height */
+color: #FF5555;
+}
+.mariS{
+    color: black;
+}
+.god{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+color: #343434;
+}
+.dush{
+    background: url(img/Mask\ Group\ \(1\).jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.sia{
+    width: 100%;
+    height: 100%;
+}
+footer{
+    background-color: #5DB25F;
+}
+.buy{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 15px;
+    /* identical to box height */
+    letter-spacing: 0.05em;    
+    color: #000000;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+.dostavka-2{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #343434;
+    
+}
+/* ======responsive */
+@media (max-width: 575px ) {
+    .flexR{
+display: flex;
+justify-content: space-between;
+    }
+}
